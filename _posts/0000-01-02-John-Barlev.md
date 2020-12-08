@@ -2,6 +2,9 @@
 4.	
 5.	layout: slide
 6.	
+
+how **hard** was that?
+
 7.	title: "Welcome to our second slide!"
 8.	
 9.	---
